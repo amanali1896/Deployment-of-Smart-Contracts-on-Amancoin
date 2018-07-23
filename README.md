@@ -27,4 +27,5 @@ Steps to run this project:
     (refer demo folder image 15).
 15) Paste the contract address (Step 13) and the ABI values(step 14) in myetherwallet and click access.
     (refer demo folder image 16.)
+16) We can now access all the functions in the smart contract. (refer demo folder image 17).
 
