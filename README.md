@@ -34,4 +34,5 @@ Steps to run this project:
     click on write -> generate transaction -> Yes. I'm Sure! Make the transaction.
     ( refer demo folder image 19).
 19) Observe the changes in Ganache.(refer demo folder images 20 and 21).
+20) To view equity, click on that function. Paste the address from step 2 and click read(refer demo folder images 22 and 23).
 
