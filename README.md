@@ -8,5 +8,7 @@ Steps to run this project:
 1) Open Ganache.
 2) Copy the address of any of the row, I have selected row 1. Note that these addresses will be different in your computer. 
    (refer demo folder image 1).
-3)
+3) Unzip the etherwallet code, and click on index.html file. It will open up in a browser. Follow along and read the terms. 
+   Then exit the window.
+4)
 
