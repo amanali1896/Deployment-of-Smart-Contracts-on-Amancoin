@@ -31,13 +31,16 @@ Steps to run this project:
 17) When we click on max_amancoins function we get 100000. This is the total coins for sale.(refer demo folder image 18).
 18) Select buy_amancoins function. In the investors address paste the from step 2.
     Add ten dollars i.e the amount of amancoins you need to buy. 
-    click on write -> generate transaction -> Yes. I'm Sure! Make the transaction.
+    click on write -> generate transaction -> Yes. I am Sure! Make the transaction.
     ( refer demo folder image 19).
 19) Observe the changes in Ganache.(refer demo folder images 20 and 21).
 20) To view equity, click on that function. Paste the address from step 2 and click read(refer demo folder images 22 and 23).
 21) To view total coins bought, click on that function. ( refer demo folder image 24).
 22) Select sell_amancoins function. In the investors address, paste address the from step 2.
     Enter the number of amancoins you have to sell. 
-    click on write -> generate transaction -> Yes. I'm Sure! Make the transaction.
+    click on write -> generate transaction -> Yes. I am Sure! Make the transaction.
     ( refer demo folder image 25).
+23) If you run the equity function like we have done in step 20, we see that the equity is reduced. 
+    This indicates that the invester has been able to sell back the amancoins back to the company.
+    ( refer demo folder image 26). 
 
