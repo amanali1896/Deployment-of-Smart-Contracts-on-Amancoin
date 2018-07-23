@@ -25,4 +25,6 @@ Steps to run this project:
 13) Open Ganache and click on the transaction. Copy the created contract address.(refer demo folder image 14)
 14) Open Remix IDE. Click on details and then click on clipboard sign near the ABI to copy the ABI values.
     (refer demo folder image 15).
+15) Paste the contract address (Step 13) and the ABI values(step 14) in myetherwallet and click access.
+    (refer demo folder image 16.)
 
