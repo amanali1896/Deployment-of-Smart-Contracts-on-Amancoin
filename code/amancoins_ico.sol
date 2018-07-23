@@ -23,6 +23,7 @@ contract amancoin_ico { //contract defination
     //checking if an investor can buy amancoins
     modifier can_buy_amancoins(uint usd_invested) { 
         require(usd_invested * usd_to_amancoins + total_amancoins_bought <= max_amancoins);
-        _;
+        _; //means that the function to which we will link the modifier will execute only if the above boolean 
+           //function executes or is true.
     }
 }
