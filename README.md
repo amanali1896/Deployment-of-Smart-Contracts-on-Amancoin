@@ -15,4 +15,5 @@ Steps to run this project:
 6) Under contract tab click on "deploy contract" (refer demo folder image 4).
 7) In remix ide where you have the solidity code, click on details. copy the byte code number from the object key
    (refer demo folder image 5).
+8) Open Ganache and click on key logo. After you click that, you will see the private key. (refer demo folder images 6 and 7).
 
