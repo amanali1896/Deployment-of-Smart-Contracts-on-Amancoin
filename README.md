@@ -12,4 +12,5 @@ Steps to run this project:
    Then exit the window.
 4) Select Add custom network/node from the Network ETH dropdown (refer demo folder image 2).
 5) Fill out the custom node details as shown(refer demo folder image 3).
+6) Under contract tab click on "deploy contract" (refer demo folder image 4).
 
