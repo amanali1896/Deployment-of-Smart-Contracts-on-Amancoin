@@ -20,5 +20,6 @@ Steps to run this project:
    (refer demo folder image 8). Note that the gas limit is automatically filled based on the byte code.
 10) Click on sign transaction and click on deploy contracts. Click on yes to make the transaction.( refer demo folder image 9).
 11) Open Ganache and observed the changes.(refer demo folder images 10, 11 and 12).
-12) Now that we have deployed the contract. Now is the time to interact with the contract. 
+12) Now that we have deployed the contract. Now is the time to interact with the contract.
+    Do this by clicking on "interact with contract" on myetherwallet page. (refer demo folder image 13).
 
