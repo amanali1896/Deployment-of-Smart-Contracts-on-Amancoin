@@ -28,4 +28,6 @@ Steps to run this project:
 15) Paste the contract address (Step 13) and the ABI values(step 14) in myetherwallet and click access.
     (refer demo folder image 16.)
 16) We can now access all the functions in the smart contract. (refer demo folder image 17).
+17) When we click on max_amancoins function we get 100000. This is the total coins for sale.(refer demo folder image 18).
+18)
 
