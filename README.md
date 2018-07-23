@@ -43,4 +43,10 @@ Steps to run this project:
 23) If you run the equity function like we have done in step 20, we see that the equity is reduced. 
     This indicates that the invester has been able to sell back the amancoins back to the company.
     ( refer demo folder image 26 and image 27 for equity in usd). 
+    
+24) All the procedure is now complete. Incase you have any issues with the project you can feel free to mail me at my email address pamanalionline@gmail.com
+
+Note: This repository uses the cryptocurrency from my repository https://github.com/amanali1896/Amancoin-cryptocurrency .
+
+Aman Ali
 
