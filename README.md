@@ -33,4 +33,5 @@ Steps to run this project:
     Add ten dollars i.e the amount of amancoins you need to buy. 
     click on write -> generate transaction -> Yes. I'm Sure! Make the transaction.
     ( refer demo folder image 19).
+19) Observe the changes in Ganache.(refer demo folder images 20 and 21).
 
