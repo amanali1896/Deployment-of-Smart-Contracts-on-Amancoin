@@ -16,6 +16,6 @@ Steps to run this project:
 7) In remix ide where you have the solidity code, click on details. copy the byte code number from the object key
    (refer demo folder image 5).
 8) Open Ganache and click on key logo. After you click that, you will see the private key. (refer demo folder images 6 and 7). 
-9) Paste the byte code (from step 7) and private key (from step 8) in the layout you get in step 6. 
-   (refer demo folder image 8). 
+9) Paste the byte code (from step 7) and private key (from step 8) in the layout you get in step 6 and click unlock button.  
+   (refer demo folder image 8). Note that the gas limit is automatically filled based on the byte code. 
 
