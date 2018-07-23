@@ -29,5 +29,8 @@ Steps to run this project:
     (refer demo folder image 16.)
 16) We can now access all the functions in the smart contract. (refer demo folder image 17).
 17) When we click on max_amancoins function we get 100000. This is the total coins for sale.(refer demo folder image 18).
-18)
+18) Select buy_amancoins function. In the investors address paste the from step 2.
+    Add ten dollars i.e the amount of amancoins you need to buy. 
+    click on write -> generate transaction -> Yes. I'm Sure! Make the transaction.
+    ( refer demo folder image 19).
 
