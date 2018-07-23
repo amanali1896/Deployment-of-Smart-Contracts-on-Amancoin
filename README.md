@@ -6,5 +6,7 @@ Tools:
 
 Steps to run this project:
 1) Open Ganache.
-2)
+2) Copy the address of any of the row, I have selected row 1. Note that these addresses will be different in your computer. 
+   (refer demo folder image 1).
+3)
 
