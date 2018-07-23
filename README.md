@@ -42,5 +42,5 @@ Steps to run this project:
     ( refer demo folder image 25).
 23) If you run the equity function like we have done in step 20, we see that the equity is reduced. 
     This indicates that the invester has been able to sell back the amancoins back to the company.
-    ( refer demo folder image 26). 
+    ( refer demo folder image 26 and image 27 for equity in usd). 
 
