@@ -18,5 +18,6 @@ Steps to run this project:
 8) Open Ganache and click on key logo. After you click that, you will see the private key. (refer demo folder images 6 and 7). 
 9) Paste the byte code (from step 7) and private key (from step 8) in the layout you get in step 6 and click unlock button.  
    (refer demo folder image 8). Note that the gas limit is automatically filled based on the byte code.
-10) click on sign transaction and click on deploy contracts. Click on yes to make the transaction.( refer demo folder image 9).
+10) Click on sign transaction and click on deploy contracts. Click on yes to make the transaction.( refer demo folder image 9).
+11) Open Ganache and observed the changes.(refer demo folder images 10, 11 and 12)
 
