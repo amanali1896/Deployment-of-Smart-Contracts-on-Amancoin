@@ -10,5 +10,5 @@ Steps to run this project:
    (refer demo folder image 1).
 3) Unzip the etherwallet code, and click on index.html file. It will open up in a browser. Follow along and read the terms. 
    Then exit the window.
-4)
+4) Select Add custom network/node from the Network ETH dropdown (refer demo folder image 2).
 
