@@ -41,4 +41,16 @@ contract amancoin_ico { //contract defination
 
         
     }
+    //Buying Amancoins
+    function buy_amancoin(address investor, uint usd_invested) external 
+    can_buy_amancoins(usd_invested) { //checks the modifier and then only starts the function body
+        uint amancoins_bought = usd_invested * usd_to_amancoins;
+        equity_amancoins[investor] += amancoins_bought;
+        equity_usd[investor] = equity_amancoins[investor]/1000;
+        total_amancoins_bought += amancoins_bought;
+
+
+    }
+        
+    
 }
