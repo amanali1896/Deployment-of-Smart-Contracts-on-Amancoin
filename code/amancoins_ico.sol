@@ -10,9 +10,9 @@ contract amancoin_ico { //contract defination
                                         //initialised to one million
     
     //Introducing USD to amancoins conversion rate
-    uint public usd_to_amancoins = 1000;
+    uint public usd_to_amancoins = 1000; //public since everyonw must know the conversion rate
 
     // introducing the total number of amancoins that have been bought by investors
-    uint public total_amancoins_bought = 0;
+    uint public total_amancoins_bought = 0; //public to maintain transparency of data
     
 }
