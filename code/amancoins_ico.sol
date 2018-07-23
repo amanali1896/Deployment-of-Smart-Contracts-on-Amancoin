@@ -26,4 +26,19 @@ contract amancoin_ico { //contract defination
         _; //means that the function to which we will link the modifier will execute only if the above boolean 
            //function executes or is true.
     }
+
+    //function to get the equity in amancoins of an invester
+    function equity_in_amancoins(address investor) external constant returns (uint){ //external constant is for the address
+                                                                                    //returns an int
+        return equity_amancoins[investor]; //mapping variable, takes in address and returns the equity
+
+        
+    }
+    //function to get the equity in usd of an invester
+     function equity_in_usd(address investor) external constant returns (uint){ //external constant is for the address
+                                                                                    //returns an int
+        return equity_usd[investor]; //mapping variable, takes in address and returns the equity
+
+        
+    }
 }
