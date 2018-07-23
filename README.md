@@ -23,4 +23,6 @@ Steps to run this project:
 12) Now that we have deployed the contract. Now is the time to interact with the contract.
     Do this by clicking on "interact with contract" on myetherwallet page. (refer demo folder image 13).
 13) Open Ganache and click on the transaction. Copy the created contract address.(refer demo folder image 14)
+14) Open Remix IDE. Click on details and then click on clipboard sign near the ABI to copy the ABI values.
+    (refer demo folder image 15).
 
