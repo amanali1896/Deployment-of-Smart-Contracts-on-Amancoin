@@ -19,4 +19,10 @@ contract amancoin_ico { //contract defination
     mapping (address => uint) equity_amancoins; //takes in an address and returns an integer
 
     mapping (address => uint) equity_usd;
+
+    //checking if an investor can buy amancoins
+    modifier can_buy_amancoins(uint usd_invested) { 
+        require(usd_invested * usd_to_amancoins + total_amancoins_bought <= max_amancoins);
+        _;
+    }
 }
